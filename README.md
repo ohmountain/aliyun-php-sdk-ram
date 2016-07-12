@@ -5,6 +5,10 @@
 cd vendors
 git clone https://git.oschina.net/chief-looker/aliyun-php-sdk-ram
 ```
+或者
+```
+composer require renshan1990/aliyun-php-sdk-ram
+```
 
 编辑composer.json
 ```javascript
