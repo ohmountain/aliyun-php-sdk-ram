@@ -7,5 +7,6 @@
             "email": "1005110700@qq.com"
         }
     ],
+		"minimum-stability": "dev",
     "require": {}
 }
