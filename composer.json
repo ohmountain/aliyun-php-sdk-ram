@@ -8,5 +8,11 @@
         }
     ],
 		"minimum-stability": "dev",
-    "require": {}
+		"license": "MIT",
+    "require": {},
+    "autoload": {
+			"psr-0": {
+				"" : "aliyun-php-sdk-ram/"
+			}
+    }
 }
