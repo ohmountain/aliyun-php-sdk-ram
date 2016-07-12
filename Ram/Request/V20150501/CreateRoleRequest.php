@@ -17,9 +17,12 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Ram\Request\V20150501;
+namespace Ram\Request\V20150501;;
 
-class CreateRoleRequest extends \RpcAcsRequest
+use Aliyun\Sdk\Core\RpcAcsRequest;
+
+
+class CreateRoleRequest extends RpcAcsRequest
 {
 	function  __construct()
 	{

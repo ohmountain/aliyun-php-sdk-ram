@@ -19,7 +19,9 @@
  */
 namespace Ram\Request\V20150501;
 
-class DeleteUserRequest extends \RpcAcsRequest
+use Aliyun\Sdk\Core\RpcAcsRequest;
+
+class DeleteUserRequest extends RpcAcsRequest
 {
 	function  __construct()
 	{
