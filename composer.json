@@ -1,0 +1,11 @@
+{
+    "name": "renshan/aliyun-php-sdk-ram",
+    "description": "aliyun RAM php sdk",
+    "authors": [
+        {
+            "name": "renshan",
+            "email": "1005110700@qq.com"
+        }
+    ],
+    "require": {}
+}
